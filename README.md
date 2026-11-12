@@ -7,7 +7,7 @@ Before teaching I studied computer science at Sejong University in Seoul (2016鈥
 ### Projects
 - **[Teacher Azimjon](https://azimjonkamolov.github.io/teacher-azimjon/)**: practice platform for the CEFR Multilevel exam, with mock tests, four skills, grammar, vocabulary, coins and a leaderboard
 - **CodeArena**: online judge for university programming courses (master's dissertation, in development)
-- **[AI Smart Tourism](https://github.com/azimjonkamolov/aitower)**: Android app for travellers in the Qashqadaryo region
+
 
 ### Find me
 [Website](https://azimjon.netlify.app) 路 [ORCID](https://orcid.org/0009-0006-9006-3233) 路 [YouTube: Azimjon Kamolov](https://www.youtube.com/@AzimjonKamolov) 路 [YouTube: Teacher Azimjon](https://www.youtube.com/@TeacherAzimjon) 路 [Telegram](https://t.me/TeacherAzimjon)
